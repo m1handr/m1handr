@@ -1,6 +1,6 @@
 ## Hi there👋
 ### I'm a begginer developer😉
-####I create datapacks, plugins for minecraft. Discord bots and html5 sites using SQL databases
+#### I create datapacks, plugins for minecraft. Discord bots and html5 sites using SQL databases
 
 ##### 🛠️Languages and Tools
 ![JavaScripts](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
