@@ -3,9 +3,6 @@
 <p align="center">
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<p align="left">
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-BaggerFast&color=green" />
-</p>
  
 #### 🛠️Languages and Tools
 ![JavaScripts](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
