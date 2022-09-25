@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋<h1>
+<h1>Hi there👋<h1>
 
-<p align="center">
+<p>
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
  
