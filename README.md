@@ -10,5 +10,6 @@
 <p>and this is only a small part of my capabilities</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1handr&show_icons=true&locale=en" alt="m1handr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1handr&show_icons=true&locale=en&layout=compact" alt="m1handr" /></p>
 <h3 align="left">❤ Views and Followers</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=667eea&style=flat" alt="m1handr" /> </p>
