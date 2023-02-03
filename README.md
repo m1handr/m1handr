@@ -1,11 +1,7 @@
-<p>
-<img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<img align="center" width="600" src="assets/github-snake.svg" alt="snake"/>
  
 <h1 align="center">Hi there👋, I'm Michael</h1>
 <h3 align="center">A junior full-stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=667eea&style=flat" alt="m1handr" /> </p>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
@@ -17,3 +13,5 @@
 ###### and this is only a small part of my capabilities
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1handr&show_icons=true&locale=en" alt="m1handr" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=667eea&style=flat" alt="m1handr" /> </p>
