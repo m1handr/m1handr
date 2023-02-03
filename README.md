@@ -10,7 +10,7 @@
 <p>and this is only a small part of my capabilities</p>
 
 <p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1handr&show_icons=true&locale=en" alt="m1handr" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1handr&show_icons=true&locale=en" alt="m1handr" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1handr&show_icons=true&locale=en&layout=compact" alt="m1handr"
 </p>
 
