@@ -2,14 +2,10 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
  
-<p align="left">
-<img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-m1handrt&color=green" />
-</p>
- 
 <h1 align="center">Hi there👋, I'm Michael</h1>
 <h3 align="center">A junior full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=0e75b6&style=flat" alt="m1handr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=667eea&style=flat" alt="m1handr" /> </p>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
