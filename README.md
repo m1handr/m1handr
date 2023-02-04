@@ -1,5 +1,5 @@
  <h1 align="center">Hi there👋, I'm Michael</h1>
-<h3 align="center">A junior full-stack developer</h3>
+<h3 align="center">I'm a junior full-stack developer</h3>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
