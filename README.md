@@ -15,4 +15,4 @@ src="https://img.shields.io/twitter/follow/m1hadr?logo=twitter&style=for-the-bad
 /></a>
 
 ## ❤ Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwindcss,nodejs,prisma,mongodb,postgres,docker,workers,nginx,linux,bash,grafana,git,github,cloudflare" alt="Stack" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=hmtl,css,ts,js,react,redux,nextjs,bun,vite,tailwindcss,nodejs,express,prisma,mongodb,postgres,docker,workers,nginx,linux,bash,grafana,git,github,cloudflare,figma" alt="Stack" /> </p>
