@@ -2,7 +2,7 @@
 ===============================================================================================================================
 Full Stack Web developer
 
-* ✉️  How to reach me [email@mihandr.ru](mailto:email@mihandr.ru)
+* ✉️  How to reach me [email@mihandr.dev](mailto:email@mihandr.dev)
 * 🚀  I'm currently working on **SPDelivery**
 * 🤝  I'm open to collaborating on **interesting projects**
 * ⚡  I love solving problems by writing code
