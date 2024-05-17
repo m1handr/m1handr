@@ -4,7 +4,6 @@ Full Stack Web developer
 
 * ✉️  How to reach me [email@mihandr.ru](mailto:email@mihandr.ru)
 * 🚀  I'm currently working on **SPDelivery**
-* 🧠  I'm learning **DevOps**
 * 🤝  I'm open to collaborating on **interesting projects**
 * ⚡  I love solving problems by writing code
   
