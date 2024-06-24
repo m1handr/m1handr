@@ -3,7 +3,7 @@
 Full Stack Web developer
 
 * ✉️  How to reach me [email@mihandr.dev](mailto:email@mihandr.dev)
-* 🚀  I'm currently working on **[Millida](https://github.com/millida)**
+* 🚀  I'm currently working on _
 * 🤝  I'm open to collaborating on **interesting projects**
 * ⚡  I love solving problems by writing code
   
