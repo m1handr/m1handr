@@ -8,10 +8,6 @@ Full Stack Web developer
 * ⚡  I love solving problems by writing code
   
 <p> <img src="https://komarev.com/ghpvc/?username=m1handr&label=Profile%20views&color=667eea&style=flat" alt="m1handr" /> </p>
-<a href="https://www.github.com/m1handr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/m1handr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/m1hadr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/m1hadr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ## ❤ Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nextjs,bun,vite,tailwindcss,nodejs,express,prisma,mongodb,postgres,docker,vercel,workers,nginx,linux,arch,bash,grafana,git,github,cloudflare,figma,vscode" alt="Stack" /> </p>
