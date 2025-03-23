@@ -8,4 +8,4 @@ Full Stack Web developer
 * ⚡  I love solving problems by writing code
 
 ## ❤ Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,react,solidjs,astro,remix,nextjs,elysia,nestjs,bun,nodejs,vite,tailwindcss,prisma,mongodb,postgres,docker,cloudflare,github,figma" alt="Stack" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=ts,react,solidjs,nextjs,astro,remix,elysia,nestjs,bun,nodejs,vite,tailwindcss,prisma,mongodb,postgres,docker,cloudflare,github,figma" alt="Stack" /> </p>
