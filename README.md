@@ -4,6 +4,7 @@ Full Stack Web developer
 
 * ✉️  How to reach me [m1handr@proton.me](mailto:m1handr@proton.me)
 * 🚀  I'm currently working on **Kapusta Shop**
+* 🧠  I'm learning [Go](https://go.dev/)
 * 🤝  I'm open to collaborating on **interesting projects**
 * ⚡  I love solving problems by writing code
 
